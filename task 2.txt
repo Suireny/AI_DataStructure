@@ -1,0 +1,6 @@
+= Why does a game that is 60GB run smoothly 16GB
+
+- When you load a game it needs to temporarily store variables, baked textures, 3D-models and other
+ game-related files to the RAM like any other software. This is done because retrieving from the RAM is faster than
+ from a HDD. But to load all of the required data to the RAM for a game of this scale isn't
+ a really good idea. Besides, it doesn't have enough space anyways.

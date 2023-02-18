@@ -1,0 +1,28 @@
+Complexity measure
+
+
+Complexity measure / measure of complexity may refer to any measure defined in various branches of complexity theory, specifically:
+
+~ in Computational complexity theory
+= Blum axioms
+= Programming complexity
+= Halstead complexity measures
+= Cyclomatic complexity
+= Time complexity
+= Parametrized complexity
+~ in complex systems theory and applications
+= Forecasting complexity
+= Effective complexity
+= Kolmogorov complexity, a measure of algorithmic complexity
+= Self-dissimilarity
+~ in information theory
+= Information fluctuation complexity
+~ in model theory
+= U-rank
+~ in statistical learning theory / computational learning theory
+= VC dimension
+= Rademacher complexity
+~ in linguistics/computer linguistics
+linguistic sequence complexity
+~ in computer networks
+= network complexity

@@ -1,0 +1,12 @@
+= Whyare there programming languages that are faster than others?
+
+- compiling
+- the cost of automation
+- Compiler Efficiency
+> A C language compiler will produce assembly (native) code, trusting the programmer to do the right thing.
+> A Rust compiler will produce safer code, like not allowing to write data beyond the bounds of an array.
+> A Java compiler uses garbage collection as well, and bytecode, so it has a virtual machine that must interpret this code.
+> A Go compiler relies on garbage collection to free memory (Rust uses different tricks).
+ That’s a separate process that must clean unused memory, and it costs CPU cycles (but this is simpler for programmers).
+
+- security

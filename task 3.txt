@@ -1,0 +1,11 @@
+= what is the virtual memory?
+
+- Virtual memory is a common technique used in a computer's operating system (OS).
+
+- Virtual memory uses both hardware and software to enable a computer to compensate for physical memory shortages,
+ temporarily transferring data from (RAM) to disk storage.
+
+- Virtual memory frees up RAM by swapping data that has not been used recently over to a storage device,
+ such as a hard drive or solid-state drive (SSD).
+
+- Virtual memory was developed at a time when RAM was expensive. 
